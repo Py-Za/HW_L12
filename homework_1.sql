@@ -1,1 +1,2 @@
-CREATE DATABASE homework_1
+USE homework_1;
+SELECT * FROM pussies;
